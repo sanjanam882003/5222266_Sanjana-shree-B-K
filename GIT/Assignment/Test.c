@@ -8,3 +8,7 @@ int main()
 double d=0.0;
 }
 // Some code from Task 1 Branch
+void main()
+{
+	Print Something
+}
